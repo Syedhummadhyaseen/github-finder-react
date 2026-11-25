@@ -1,0 +1,41 @@
+.container {
+  max-width: 500px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+  border-radius: 6px;
+  border: none;
+}
+
+button {
+  padding: 10px 16px;
+  margin-left: 8px;
+  border: none;
+  border-radius: 6px;
+  background: #22c55e;
+  color: white;
+  cursor: pointer;
+}
+
+.card {
+  background: #1e293b;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card img {
+  border-radius: 50%;
+}
+
+.card a {
+  color: #22c55e;
+}
+
+.error {
+  color: #ef4444;
+}
